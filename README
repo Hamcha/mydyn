@@ -1,0 +1,24 @@
+mydyn
+
+
+WHAT
+-------------------------------------------------------------------------------
+Dynamic DNS for people who have common sense.
+Run it from somewhere, it will fetch its own IP and submit a DNS record update
+to whatever provider you want (as long as it is supported).
+
+
+HOW
+-------------------------------------------------------------------------------
+APIs, mostly.
+I will mantain support for Gandi since that's what I use, maybe I'll do OVH in
+the future.
+
+
+WHY
+-------------------------------------------------------------------------------
+- I have my own home server
+- My ISP doesn't like static IPs
+- I hate dyndns
+- I own 102083.4 domain names
+- I wanted something that I could run on 9front
